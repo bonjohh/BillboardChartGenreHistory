@@ -1,0 +1,3 @@
+C:\Users\John Wilson\OneDrive\Documents\BillboardChartGenreHistory\obj\Debug\BillboardChartGenreHistory.njsproj.AssemblyReference.cache
+C:\Users\John Wilson\OneDrive\Documents\BillboardChartGenreHistory\obj\Debug\BillboardChartGenreHistory.njsproj.CoreCompileInputs.cache
+C:\Users\John Wilson\OneDrive\Documents\BillboardChartGenreHistory\bin\Microsoft.NodejsTools.WebRole.dll
