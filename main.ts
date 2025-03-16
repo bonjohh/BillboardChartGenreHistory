@@ -17,7 +17,7 @@ function getLastFridayOf(date: number): number {
 
 const pastDates: string[] = [];
 for (let i = 0; i < 7 * 52 * 15; i += 7) {//100; i += 7) {
-    pastDates.push(format(subDays(lastSa turday, i), "yyyy-MM-dd"));
+    pastDates.push(format(subDays(lastSaturday, i), "yyyy-MM-dd"));
 }
 
 for (const pastDate of pastDates) {
